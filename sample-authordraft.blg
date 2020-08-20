@@ -1,0 +1,68 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: sample-authordraft.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: sample-base.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--no key, author in sonalibank
+Warning--no author, editor, organization, or key in sonalibank
+Warning--to sort, need author or key in sonalibank
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Warning--no key, author in sonalibank
+Warning--no key, author in sonalibank
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--no key, author in sonalibank
+Warning--no author, editor, organization, or key in sonalibank
+Warning--empty author in sonalibank
+Warning--empty year in sonalibank
+Warning--empty year in rocket
+Warning--empty year in bkash
+Warning--empty year in nagad
+Warning--empty year in teletalk
+You've used 6 entries,
+            5945 wiz_defined-function locations,
+            1509 strings with 17378 characters,
+and the built_in function-call counts, 4260 in all, are:
+= -- 420
+> -- 98
+< -- 0
++ -- 27
+- -- 39
+* -- 270
+:= -- 485
+add.period$ -- 29
+call.type$ -- 6
+change.case$ -- 29
+chr.to.int$ -- 5
+cite$ -- 23
+duplicate$ -- 387
+empty$ -- 292
+format.name$ -- 39
+if$ -- 923
+int.to.chr$ -- 3
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 112
+num.names$ -- 39
+pop$ -- 210
+preamble$ -- 1
+purify$ -- 52
+quote$ -- 0
+skip$ -- 120
+stack$ -- 0
+substring$ -- 230
+swap$ -- 30
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 174
+warning$ -- 13
+while$ -- 39
+width$ -- 0
+write$ -- 164
+(There were 13 warnings)

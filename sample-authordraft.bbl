@@ -1,0 +1,122 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{6}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{??}{son}{[n.d.]}]%
+        {sonalibank}
+ \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \bibinfo{title}{Nagad Digital Financial Service; a venture by the
+  Bangladesh Post Office}.
+\newblock \bibinfo{howpublished}{Public Limited Company with 100% ownership of
+  the government}.
+\newblock
+\urldef\tempurl%
+\url{http://sonalibank.com.bd}
+\showURL{%
+Retrieved August 20, 2020 from \tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Bank}{Bank}{[n.d.]}]%
+        {rocket}
+\bibfield{author}{\bibinfo{person}{Dutch-Bangla Bank}.}
+  \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \bibinfo{title}{bKash Limited (bKash)}.
+\newblock \bibinfo{howpublished}{Mobile Banking}.
+\newblock
+\urldef\tempurl%
+\url{https://www.dutchbanglabank.com/rocket/rocket.html}
+\showURL{%
+Retrieved August 20, 2020 from \tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Limited}{Limited}{[n.d.]a}]%
+        {bkash}
+\bibfield{author}{\bibinfo{person}{BRAC~Bank Limited}.}
+  \bibinfo{year}{[n.d.]}\natexlab{a}.
+\newblock \bibinfo{title}{bKash Limited (bKash)}.
+\newblock \bibinfo{howpublished}{Mobile Banking}.
+\newblock
+\urldef\tempurl%
+\url{https://www.bkash.com/}
+\showURL{%
+Retrieved August 20, 2020 from \tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Limited}{Limited}{[n.d.]b}]%
+        {nagad}
+\bibfield{author}{\bibinfo{person}{Third Wave~Technologies Limited}.}
+  \bibinfo{year}{[n.d.]}\natexlab{b}.
+\newblock \bibinfo{title}{Nagad Digital Financial Service; a venture by the
+  Bangladesh Post Office}.
+\newblock \bibinfo{howpublished}{Website}.
+\newblock
+\urldef\tempurl%
+\url{https://nagad.com.bd}
+\showURL{%
+Retrieved August 20, 2020 from \tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Ministry~of Education}{Ministry~of
+  Education}{2020}]%
+        {xiaddmissionlandingpage}
+\bibfield{author}{\bibinfo{person}{Bangladesh Ministry~of Education}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{XI CLASS ADMISSION SYSTEM (SESSION 2020 - 2021)}.
+\newblock \bibinfo{howpublished}{Website}.
+\newblock
+\urldef\tempurl%
+\url{http://xiclassadmission.gov.bd}
+\showURL{%
+Retrieved August 20, 2020 from \tempurl}
+
+
+\bibitem[\protect\citeauthoryear{of~the Peoples Republic~of Bangladesh}{of~the
+  Peoples Republic~of Bangladesh}{[n.d.]}]%
+        {teletalk}
+\bibfield{author}{\bibinfo{person}{Government of~the Peoples Republic~of
+  Bangladesh}.} \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \bibinfo{title}{Teletalk Bangladesh Limited}.
+\newblock \bibinfo{howpublished}{Leading Mobile Phone Operator}.
+\newblock
+\urldef\tempurl%
+\url{http://www.teletalk.com.bd/}
+\showURL{%
+Retrieved August 20, 2020 from \tempurl}
+
+
+\end{thebibliography}
